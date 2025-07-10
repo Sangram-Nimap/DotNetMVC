@@ -5,6 +5,42 @@
       "PackagePath": "staticwebassets\\BestStoreMVC.chhgq4b3br.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\wwwroot\\Products\\earphone.jpg",
+      "PackagePath": "staticwebassets\\Products\\earphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\wwwroot\\Products\\keyboard.jpg",
+      "PackagePath": "staticwebassets\\Products\\keyboard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\wwwroot\\Products\\laptop.jpg",
+      "PackagePath": "staticwebassets\\Products\\laptop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\wwwroot\\Products\\mobile.jpg",
+      "PackagePath": "staticwebassets\\Products\\mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\wwwroot\\Products\\monitor.jpg",
+      "PackagePath": "staticwebassets\\Products\\monitor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\wwwroot\\Products\\powerbank.jpg",
+      "PackagePath": "staticwebassets\\Products\\powerbank.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\wwwroot\\Products\\printer.jpg",
+      "PackagePath": "staticwebassets\\Products\\printer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\wwwroot\\Products\\smartwatch.jpg",
+      "PackagePath": "staticwebassets\\Products\\smartwatch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\wwwroot\\Products\\tablet.jpg",
+      "PackagePath": "staticwebassets\\Products\\tablet.jpg"
+    },
+    {
       "Id": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

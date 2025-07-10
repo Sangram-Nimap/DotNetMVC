@@ -58,3 +58,12 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\Products\earphone.jpg
+wwwroot\Products\keyboard.jpg
+wwwroot\Products\laptop.jpg
+wwwroot\Products\mobile.jpg
+wwwroot\Products\monitor.jpg
+wwwroot\Products\powerbank.jpg
+wwwroot\Products\printer.jpg
+wwwroot\Products\smartwatch.jpg
+wwwroot\Products\tablet.jpg
