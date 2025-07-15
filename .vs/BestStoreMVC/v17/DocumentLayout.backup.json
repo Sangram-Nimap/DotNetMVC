@@ -7,12 +7,28 @@
       "RelativeMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|c:\\users\\acer\\desktop\\vidlyproject\\beststoremvc\\beststoremvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|c:\\users\\acer\\desktop\\vidlyproject\\beststoremvc\\beststoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|c:\\users\\acer\\desktop\\vidlyproject\\beststoremvc\\beststoremvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|c:\\users\\acer\\desktop\\vidlyproject\\beststoremvc\\beststoremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|c:\\users\\acer\\desktop\\vidlyproject\\beststoremvc\\beststoremvc\\migrations\\appdbconnectionmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\migrations\\appdbconnectionmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|c:\\users\\acer\\desktop\\vidlyproject\\beststoremvc\\beststoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|c:\\users\\acer\\desktop\\vidlyproject\\beststoremvc\\beststoremvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|c:\\users\\acer\\desktop\\vidlyproject\\beststoremvc\\beststoremvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,20 +55,8 @@
       "RelativeMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|c:\\users\\acer\\desktop\\vidlyproject\\beststoremvc\\beststoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|c:\\users\\acer\\desktop\\vidlyproject\\beststoremvc\\beststoremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|c:\\users\\acer\\desktop\\vidlyproject\\beststoremvc\\beststoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|c:\\users\\acer\\desktop\\vidlyproject\\beststoremvc\\beststoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|c:\\users\\acer\\desktop\\vidlyproject\\beststoremvc\\beststoremvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -65,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|c:\\users\\acer\\desktop\\vidlyproject\\beststoremvc\\beststoremvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|c:\\users\\acer\\desktop\\vidlyproject\\beststoremvc\\beststoremvc\\migrations\\appdbconnectionmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\migrations\\appdbconnectionmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D30CDF0A-CC15-4113-81C4-4C8CCC65E2C5}|BestStoreMVC\\BestStoreMVC.csproj|c:\\users\\acer\\desktop\\vidlyproject\\beststoremvc\\beststoremvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ProductsDtoClass.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\Models\\ProductsDtoClass.cs",
               "RelativeDocumentMoniker": "BestStoreMVC\\Models\\ProductsDtoClass.cs",
@@ -108,14 +108,13 @@
               "RelativeDocumentMoniker": "BestStoreMVC\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "BestStoreMVC\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAowGAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswIwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T09:44:35.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T09:44:35.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\Models\\Product.cs",
               "RelativeDocumentMoniker": "BestStoreMVC\\Models\\Product.cs",
@@ -127,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "20250709054326_Initial Mimgration.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\Migrations\\20250709054326_Initial Mimgration.cs",
               "RelativeDocumentMoniker": "BestStoreMVC\\Migrations\\20250709054326_Initial Mimgration.cs",
@@ -139,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "BestStoreMVC\\Views\\Products\\Index.cshtml",
@@ -151,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BestStoreMVC\\Views\\Home\\Index.cshtml",
@@ -169,14 +168,14 @@
               "RelativeDocumentMoniker": "BestStoreMVC\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BestStoreMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-10T06:08:51.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\Views\\Products\\Edit.cshtml",
               "RelativeDocumentMoniker": "BestStoreMVC\\Views\\Products\\Edit.cshtml",
@@ -184,12 +183,11 @@
               "RelativeToolTip": "BestStoreMVC\\Views\\Products\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-11T12:26:00.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T12:26:00.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "BestStoreMVC\\Views\\Products\\Create.cshtml",
@@ -201,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "BestStoreMVC\\Views\\Home\\Privacy.cshtml",
@@ -213,31 +211,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\Program.cs",
               "RelativeDocumentMoniker": "BestStoreMVC\\Program.cs",
               "ToolTip": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\Program.cs",
               "RelativeToolTip": "BestStoreMVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T09:19:38.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BestStoreMVC\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "BestStoreMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T09:04:36.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\appsettings.json",
               "RelativeDocumentMoniker": "BestStoreMVC\\appsettings.json",
@@ -249,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AppDbConnection.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\Data\\AppDbConnection.cs",
               "RelativeDocumentMoniker": "BestStoreMVC\\Data\\AppDbConnection.cs",
@@ -261,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "AppDbConnectionModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\Migrations\\AppDbConnectionModelSnapshot.cs",
               "RelativeDocumentMoniker": "BestStoreMVC\\Migrations\\AppDbConnectionModelSnapshot.cs",
@@ -273,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "BestStoreMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -285,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\VidlyProject\\BestStoreMVC\\BestStoreMVC\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "BestStoreMVC\\Views\\_ViewImports.cshtml",
